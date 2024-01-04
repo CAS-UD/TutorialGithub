@@ -10,5 +10,6 @@ while True:
     led.value(0)
     time.sleep(0.2)
 
+#Asdaoklmdshjiasgdahgsdkajhbdsnladnmjoliadsnja finddddsadad
 
 # lol jajajajajajaja
